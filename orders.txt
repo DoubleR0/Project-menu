@@ -1,0 +1,8 @@
+1,fired rice pork, 35.00
+ amount 1 total 35.00 Bath
+2,fired rice seafood, 45.00
+ amount 0 total 0.00 Bath
+3,kapao rice chicken, 35.00
+ amount 0 total 0.00 Bath
+
+Total price: 35.00 Bath
